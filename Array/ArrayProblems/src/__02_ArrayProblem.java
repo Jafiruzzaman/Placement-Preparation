@@ -25,5 +25,6 @@ public class __02_ArrayProblem {
         }
         int result = MaxValue(arr);
         System.out.println("The result is "+result);
+        scanner.close();
     }
 }

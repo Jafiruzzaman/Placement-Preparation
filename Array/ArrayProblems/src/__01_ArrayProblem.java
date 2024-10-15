@@ -21,5 +21,6 @@ public class __01_ArrayProblem {
         }
         int result = sum(arr);
         System.out.println("The result is "+result);
+        scanner.close();
     }
 }

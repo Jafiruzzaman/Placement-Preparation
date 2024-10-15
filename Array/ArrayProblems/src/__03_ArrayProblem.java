@@ -28,5 +28,6 @@ public class __03_ArrayProblem {
         int target = sc.nextInt();
         int result = FindIndex(arr,target);
         System.out.println("The result is "+result);
+        sc.close();
     }
 }
